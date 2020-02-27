@@ -4,7 +4,9 @@
     <color name="colorPrimaryDark">#28aac0</color>
     <color name="colorAccent">#FF4081</color>
 
-    <color name="fontColour">#F1A734</color>
+    <color name="fontColour">#e74c3c</color>
+    <color name="bcgrndFontColour">#34495e</color>
+    <color name="spinnerItemColour">#f1c40f</color>
     <color name="selectColour">#F1A734</color>
     <color name="bkgndColour">#28aac0</color>
     <color name="black">#000000</color>
